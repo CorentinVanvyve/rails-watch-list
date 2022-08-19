@@ -18,3 +18,5 @@ dico = JSON.parse(user_serialized)
     puts mov
   end
 end
+
+List.create(name: "Ben's favorite movie ")
